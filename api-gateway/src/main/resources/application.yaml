@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: api-gateway
+server:
+  port: 9000
+product:
+  service:
+    url: http://localhost:8081/
